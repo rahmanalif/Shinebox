@@ -1,0 +1,83 @@
+===================================
+TIC TAC TOE - UNITY SETUP GUIDE
+===================================
+
+REQUIREMENTS:
+-------------
+1. TextMeshPro package installed (Window > TextMeshPro > Import TMP Essential Resources)
+2. X and O sprite images (PNG/JPG files)
+
+UNITY SCENE SETUP:
+------------------
+
+1. CREATE THE GAME BOARD:
+   - Create a Canvas (UI > Canvas)
+   - Create an empty GameObject called "TicTacToeManager"
+   - Attach the TicTacToeGame.cs script to it
+
+2. CREATE 9 CELL BUTTONS:
+   - Create 9 UI Buttons (Right-click Canvas > UI > Button)
+   - Arrange them in a 3x3 grid
+   - Name them: Cell_0, Cell_1, Cell_2, ... Cell_8 (top-left to bottom-right)
+   - Each button should have an Image component (default)
+   - IMPORTANT: Make sure each button has Image component, NOT Text component
+
+3. CREATE STATUS TEXT:
+   - Create UI > TextMeshPro - Text
+   - Name it "StatusText"
+   - Position it above or below the game board
+
+4. CREATE RESET BUTTON (Optional):
+   - Create UI > Button
+   - Name it "ResetButton"
+   - Add TextMeshPro text as child with text "Reset"
+
+5. ASSIGN IN INSPECTOR:
+   Select TicTacToeManager GameObject, then in the Inspector:
+
+   UI REFERENCES:
+   - Cells (Size: 9) - Drag all 9 cell buttons in order (0-8)
+   - Status Text - Drag the StatusText object
+   - Reset Button - Drag the ResetButton
+
+   GAME SETTINGS:
+   - Current Difficulty: Choose Easy/Medium/Hard
+   - Player Symbol: Choose X or O (what the player will use)
+
+   SYMBOL IMAGES:
+   - X Sprite - Drag your X image here
+   - O Sprite - Drag your O image here
+
+6. PREPARE YOUR IMAGES:
+   - Create or download X and O images (PNG with transparency recommended)
+   - Import them into Unity (Project window)
+   - Set Texture Type to "Sprite (2D and UI)"
+   - Click Apply
+
+DIFFICULTY LEVELS:
+------------------
+- EASY: AI makes random moves (very easy to beat)
+- MEDIUM: AI plays smart 50% of time, random 50% of time
+- HARD: AI uses Minimax algorithm (impossible to beat, can only draw or lose)
+
+HOW TO CHANGE SETTINGS:
+-----------------------
+You can change these in the Inspector BEFORE running:
+1. Current Difficulty - Choose how smart the AI is
+2. Player Symbol - Choose if you want to play as X or O
+
+The AI will automatically get the opposite symbol.
+
+TIPS:
+-----
+- The player always goes first
+- Click any empty cell to make your move
+- The AI will respond after a short delay (0.5 seconds)
+- Use the Reset button to start a new game
+
+TROUBLESHOOTING:
+----------------
+- If you get errors, make sure all 9 buttons are assigned to the Cells array
+- Make sure X Sprite and O Sprite are assigned
+- Make sure you're using Image components on buttons, not Text
+- Check that TextMeshPro is installed
