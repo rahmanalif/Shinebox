@@ -19,6 +19,15 @@
 1stprototype_BackUpThisFolder_ButDontShipItWithYourGame/
 2nd prototype_BackUpThisFolder_ButDontShipItWithYourGame/
 
+# Unity build and debug folders
+*_BurstDebugInformation_DoNotShip/
+
+# APK and build files
+*.apk
+
+# Solution files
+*.slnx
+
 # By default unity supports Blender asset imports, *.blend1 blender files do not need to be commited to version control.
 *.blend1
 *.blend1.meta
