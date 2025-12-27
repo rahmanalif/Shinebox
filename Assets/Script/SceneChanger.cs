@@ -2,36 +2,58 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-public class SceneChanger : MonoBehaviour
+[System.Serializable]
+public class SceneButton
 {
-    [Header("Assign Button in Inspector")]
-    public Button changeSceneButton;
+    [Tooltip("The button that will trigger the scene change")]
+    public Button button;
 
-    [Header("Scene Settings")]
     [Tooltip("Enter the exact name of the scene you want to load")]
     public string sceneToLoad;
+}
+
+public class SceneChanger : MonoBehaviour
+{
+    [Header("Multiple Scene Buttons")]
+    [Tooltip("Add multiple buttons here, each with their own scene to load")]
+    public SceneButton[] sceneButtons;
 
     void Start()
     {
-        if (changeSceneButton != null)
+        // Set up listeners for all buttons
+        if (sceneButtons != null && sceneButtons.Length > 0)
         {
-            changeSceneButton.onClick.AddListener(ChangeScene);
+            for (int i = 0; i < sceneButtons.Length; i++)
+            {
+                int index = i; // Capture index for closure
+                SceneButton sceneButton = sceneButtons[index];
+
+                if (sceneButton.button != null)
+                {
+                    sceneButton.button.onClick.AddListener(() => ChangeScene(sceneButton.sceneToLoad));
+                }
+                else
+                {
+                    Debug.LogWarning($"SceneChanger: Button at index {index} is not assigned!");
+                }
+            }
         }
         else
         {
-            Debug.LogError("SceneChanger: Please assign a button in the Inspector!");
+            Debug.LogError("SceneChanger: No scene buttons assigned in the Inspector!");
         }
     }
 
-    public void ChangeScene()
+    // Load scene by name
+    public void ChangeScene(string sceneName)
     {
-        if (!string.IsNullOrEmpty(sceneToLoad))
+        if (!string.IsNullOrEmpty(sceneName))
         {
-            SceneManager.LoadScene(sceneToLoad);
+            SceneManager.LoadScene(sceneName);
         }
         else
         {
-            Debug.LogError("SceneChanger: Scene name is empty! Please enter a scene name in the Inspector.");
+            Debug.LogError("SceneChanger: Scene name is empty!");
         }
     }
 
