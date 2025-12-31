@@ -11,6 +11,7 @@ public class GameManager : MonoBehaviour
 
     [Header("UI References")]
     [SerializeField] private TextMeshProUGUI strokeCounterText;
+    [SerializeField] private TextMeshProUGUI parCounterText;
 
     private int currentStrokes = 0;
 
@@ -27,6 +28,7 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         UpdateStrokeUI();
+        UpdateParUI();
     }
 
     public void RecordStroke()
@@ -39,7 +41,15 @@ public class GameManager : MonoBehaviour
     {
         if (strokeCounterText != null)
         {
-            strokeCounterText.text = $"Strokes: {currentStrokes}";
+            strokeCounterText.text = $" {currentStrokes}";
+        }
+    }
+
+    private void UpdateParUI()
+    {
+        if (parCounterText != null)
+        {
+            parCounterText.text = $" {parForLevel}";
         }
     }
 
