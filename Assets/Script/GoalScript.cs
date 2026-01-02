@@ -1,13 +1,14 @@
 using UnityEngine;
-using UnityEngine.SceneManagement;
 using System.Collections;
 
 public class GoalScript : MonoBehaviour
 {
     [Header("UI References")]
     [SerializeField] private GameObject winPanel;
-    [SerializeField] private TMPro.TextMeshProUGUI scoreText;
-    [SerializeField] private TMPro.TextMeshProUGUI resultText;
+    [SerializeField] private TMPro.TextMeshProUGUI resultText; // Title (e.g., "BIRDIE!")
+    [SerializeField] private TMPro.TextMeshProUGUI subtitleText; // Subtitle (e.g., "Great Job!")
+    [SerializeField] private TMPro.TextMeshProUGUI strokesText; // Shows strokes number
+    [SerializeField] private TMPro.TextMeshProUGUI parText; // Shows par number
 
     [Header("Hole Animation Settings")]
     [SerializeField] private float fallDuration = 0.5f;
@@ -18,6 +19,7 @@ public class GoalScript : MonoBehaviour
 
     private bool goalReached = false;
     private AudioSource audioSource;
+    private Vector3 originalBallScale;
 
     private void Start()
     {
@@ -39,6 +41,9 @@ public class GoalScript : MonoBehaviour
 
     private IEnumerator BallFallIntoHole(GameObject ball)
     {
+        // Save the original ball scale before shrinking
+        originalBallScale = ball.transform.localScale;
+
         // Play hole sound
         if (audioSource != null && holeSound != null)
         {
@@ -139,44 +144,55 @@ public class GoalScript : MonoBehaviour
             winPanel.SetActive(true);
         }
 
-        // Update score text
-        if (scoreText != null)
+        // Update strokes and par display
+        if (strokesText != null)
         {
-            scoreText.text = $"{strokes}\nPar: {par}";
+            strokesText.text = strokes.ToString();
         }
 
-        // Update result text based on performance
+        if (parText != null)
+        {
+            parText.text = par.ToString();
+        }
+
+        // Update result title and subtitle based on performance
         if (resultText != null)
         {
             if (strokes == 1)
             {
                 resultText.text = "HOLE IN ONE!";
-                resultText.color = Color.yellow;
+                resultText.color = new Color(0.25f, 0.82f, 0.54f); // Green color #3FD18A
+                if (subtitleText != null) subtitleText.text = "Amazing!";
             }
             else if (difference <= -2)
             {
                 resultText.text = "EAGLE!";
-                resultText.color = Color.yellow;
+                resultText.color = new Color(0.25f, 0.82f, 0.54f); // Green color
+                if (subtitleText != null) subtitleText.text = "Spectacular!";
             }
             else if (difference == -1)
             {
                 resultText.text = "BIRDIE!";
-                resultText.color = Color.green;
+                resultText.color = new Color(0.25f, 0.82f, 0.54f); // Green color #3FD18A
+                if (subtitleText != null) subtitleText.text = "Great Job!";
             }
             else if (difference == 0)
             {
                 resultText.text = "PAR";
-                resultText.color = Color.white;
+                resultText.color = new Color(0.25f, 0.82f, 0.54f); // Green color
+                if (subtitleText != null) subtitleText.text = "Well Done!";
             }
             else if (difference == 1)
             {
                 resultText.text = "BOGEY";
-                resultText.color = new Color(1f, 0.5f, 0f);
+                resultText.color = new Color(1f, 0.5f, 0f); // Orange
+                if (subtitleText != null) subtitleText.text = "Not Bad!";
             }
             else
             {
                 resultText.text = "DOUBLE BOGEY+";
                 resultText.color = Color.red;
+                if (subtitleText != null) subtitleText.text = "Keep Trying!";
             }
         }
 
@@ -186,21 +202,74 @@ public class GoalScript : MonoBehaviour
     public void RestartLevel()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+
+        // Reset the goal state so it can be triggered again
+        goalReached = false;
+
+        // Hide the win panel
+        if (winPanel != null)
+        {
+            winPanel.SetActive(false);
+        }
+
+        // Reset the GameManager stroke count
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.ResetStrokes();
+        }
+
+        // Find and reset the ball
+        GameObject ball = GameObject.FindGameObjectWithTag("Ball");
+        if (ball != null)
+        {
+            // Re-enable ball shooting
+            golfScript golfScript = ball.GetComponent<golfScript>();
+            if (golfScript != null)
+            {
+                golfScript.EnableShooting();
+            }
+
+            // Reset ball visual
+            SpriteRenderer ballSprite = ball.GetComponent<SpriteRenderer>();
+            if (ballSprite != null)
+            {
+                ballSprite.enabled = true;
+            }
+
+            // Reset ball scale to original size
+            if (originalBallScale != Vector3.zero)
+            {
+                ball.transform.localScale = originalBallScale;
+            }
+
+            // Reset ball physics
+            Rigidbody2D ballRb = ball.GetComponent<Rigidbody2D>();
+            if (ballRb != null)
+            {
+                ballRb.linearVelocity = Vector2.zero;
+                ballRb.angularVelocity = 0f;
+            }
+
+            // Move ball back to start position
+            GameObject startPoint = GameObject.FindGameObjectWithTag("BallStart");
+            if (startPoint != null)
+            {
+                ball.transform.position = startPoint.transform.position;
+            }
+        }
     }
 
     public void NextLevel()
     {
         Time.timeScale = 1f;
-        string nextLevel = GameManager.Instance?.GetNextLevelName();
 
-        if (!string.IsNullOrEmpty(nextLevel))
+        if (LevelManager.Instance != null)
         {
-            SceneManager.LoadScene(nextLevel);
+            LevelManager.Instance.LoadNextLevel();
         }
         else
         {
-            Debug.Log("No next level set!");
+            Debug.LogWarning("LevelManager not found! Make sure LevelManager exists in the scene.");
         }
     }
 }

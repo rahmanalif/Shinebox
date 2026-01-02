@@ -10,8 +10,14 @@ public class golfScript : MonoBehaviour
     // ATTRIBUTES
     [SerializeField] private float maxPower = 10f;
     [SerializeField] private float power = 2f;
-    [SerializeField] private float velocityDamping = 0.98f;
-    [SerializeField] private float stopThreshold = 0.2f;
+    [SerializeField] private float velocityDamping = 0.95f;
+    [SerializeField] private float stopThreshold = 0.5f;
+
+    // LINE RENDERER SETTINGS
+    [SerializeField] private Color lineColor = Color.magenta;
+    [SerializeField] private float lineWidth = 0.1f;
+    [SerializeField] private float dashLength = 0.5f; // Length of each dash
+    [SerializeField] private float gapLength = 0.3f; // Length of gap between dashes
 
     // PRIVATE VARIABLES
     private bool isDragging;
@@ -29,6 +35,38 @@ public class golfScript : MonoBehaviour
 
         if (rb == null)
             rb = GetComponent<Rigidbody2D>();
+
+        SetupLineRenderer();
+    }
+
+    private void SetupLineRenderer()
+    {
+        if (lr == null) return;
+
+        // Set the color
+        lr.startColor = lineColor;
+        lr.endColor = lineColor;
+
+        // Set the width
+        lr.startWidth = lineWidth;
+        lr.endWidth = lineWidth;
+
+        // Configure for dashed line appearance
+        lr.textureMode = LineTextureMode.Tile;
+
+        // Create material with dashed texture
+        Material lineMaterial = new(Shader.Find("Sprites/Default"));
+
+        // Generate dashed texture
+        int textureWidth = 64;
+        int textureHeight = 1;
+        float dashRatio = dashLength / (dashLength + gapLength);
+        Texture2D dashedTexture = DashedLineTextureGenerator.CreateDashedTexture(textureWidth, textureHeight, dashRatio);
+
+        lineMaterial.mainTexture = dashedTexture;
+        lineMaterial.color = lineColor;
+
+        lr.material = lineMaterial;
     }
 
     void Update()
@@ -176,6 +214,11 @@ public class golfScript : MonoBehaviour
     public void DisableShooting()
     {
         canShoot = false;
+    }
+
+    public void EnableShooting()
+    {
+        canShoot = true;
     }
 
     private bool IsReady()

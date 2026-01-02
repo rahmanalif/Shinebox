@@ -1,0 +1,3048 @@
+fileFormatVersion: 2
+guid: 5543ab7b3e7ba7c46b99de0a5c99607d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -25560047072530739
+    second: FreeEnviro_Sheet_16px_0
+  - first:
+      213: 7812956359290558743
+    second: FreeEnviro_Sheet_16px_1
+  - first:
+      213: 3943077619563793593
+    second: FreeEnviro_Sheet_16px_2
+  - first:
+      213: -6757436366655092036
+    second: FreeEnviro_Sheet_16px_3
+  - first:
+      213: -5025612235057874389
+    second: FreeEnviro_Sheet_16px_4
+  - first:
+      213: 8313634211143539848
+    second: FreeEnviro_Sheet_16px_5
+  - first:
+      213: 3193700057236950767
+    second: FreeEnviro_Sheet_16px_6
+  - first:
+      213: -6542638708561858447
+    second: FreeEnviro_Sheet_16px_7
+  - first:
+      213: 8455493245105938248
+    second: FreeEnviro_Sheet_16px_8
+  - first:
+      213: 6679721999051853891
+    second: FreeEnviro_Sheet_16px_9
+  - first:
+      213: 3240035971489981170
+    second: FreeEnviro_Sheet_16px_10
+  - first:
+      213: -7674602997623316065
+    second: FreeEnviro_Sheet_16px_11
+  - first:
+      213: 1248467839185158111
+    second: FreeEnviro_Sheet_16px_12
+  - first:
+      213: -5646674466958816790
+    second: FreeEnviro_Sheet_16px_13
+  - first:
+      213: 5682027967581858935
+    second: FreeEnviro_Sheet_16px_14
+  - first:
+      213: -8294676140793360537
+    second: FreeEnviro_Sheet_16px_15
+  - first:
+      213: 504537294659109246
+    second: FreeEnviro_Sheet_16px_16
+  - first:
+      213: -7042872260647051784
+    second: FreeEnviro_Sheet_16px_17
+  - first:
+      213: 3147430140470049624
+    second: FreeEnviro_Sheet_16px_18
+  - first:
+      213: 5934057805383824551
+    second: FreeEnviro_Sheet_16px_19
+  - first:
+      213: 2286062014955462292
+    second: FreeEnviro_Sheet_16px_20
+  - first:
+      213: -6576449086489607577
+    second: FreeEnviro_Sheet_16px_21
+  - first:
+      213: 5572865847460423762
+    second: FreeEnviro_Sheet_16px_22
+  - first:
+      213: -1625700577869001429
+    second: FreeEnviro_Sheet_16px_23
+  - first:
+      213: -2881038124275615681
+    second: FreeEnviro_Sheet_16px_24
+  - first:
+      213: -8353797383706072462
+    second: FreeEnviro_Sheet_16px_25
+  - first:
+      213: -5338491911869110590
+    second: FreeEnviro_Sheet_16px_26
+  - first:
+      213: 7978037025753699429
+    second: FreeEnviro_Sheet_16px_27
+  - first:
+      213: -7153393954076016938
+    second: FreeEnviro_Sheet_16px_28
+  - first:
+      213: -7031465305542990225
+    second: FreeEnviro_Sheet_16px_29
+  - first:
+      213: 6502247452093069216
+    second: FreeEnviro_Sheet_16px_30
+  - first:
+      213: 5808679700768869436
+    second: FreeEnviro_Sheet_16px_31
+  - first:
+      213: 1723659436144948891
+    second: FreeEnviro_Sheet_16px_32
+  - first:
+      213: 406557168260592762
+    second: FreeEnviro_Sheet_16px_33
+  - first:
+      213: -535336461374667742
+    second: FreeEnviro_Sheet_16px_34
+  - first:
+      213: 4718170155668605318
+    second: FreeEnviro_Sheet_16px_35
+  - first:
+      213: -3426045144255800649
+    second: FreeEnviro_Sheet_16px_36
+  - first:
+      213: -2031496230402917427
+    second: FreeEnviro_Sheet_16px_37
+  - first:
+      213: -10702271941143436
+    second: FreeEnviro_Sheet_16px_38
+  - first:
+      213: 8810063047926021660
+    second: FreeEnviro_Sheet_16px_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceacc9c54135aff0800000000000000
+      internalID: -25560047072530739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7199429f9623d6c60800000000000000
+      internalID: 7812956359290558743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc84e32430a8b630800000000000000
+      internalID: 3943077619563793593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_3
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 287
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba873d4d63c832a0800000000000000
+      internalID: -6757436366655092036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_4
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2ab48e8c40714ab0800000000000000
+      internalID: -5025612235057874389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88cdebb7446ff5370800000000000000
+      internalID: 8313634211143539848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feec0c6f74d425c20800000000000000
+      internalID: 3193700057236950767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170337a42c0e335a0800000000000000
+      internalID: -6542638708561858447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f114bae42f75570800000000000000
+      internalID: 8455493245105938248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34019d774c323bc50800000000000000
+      internalID: 6679721999051853891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2e524bc8be6fc20800000000000000
+      internalID: 3240035971489981170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91a3864c355e7590800000000000000
+      internalID: -7674602997623316065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_12
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf712492e2735110800000000000000
+      internalID: 1248467839185158111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 271
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9c6aa5d7bf2a1b0800000000000000
+      internalID: -5646674466958816790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c2d83f45e9ade40800000000000000
+      internalID: 5682027967581858935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76f8a1d3ff363ec80800000000000000
+      internalID: -8294676140793360537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_16
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71c7101ff9700700800000000000000
+      internalID: 504537294659109246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd1ea16ef0b24e90800000000000000
+      internalID: -7042872260647051784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b3316790bedab20800000000000000
+      internalID: 3147430140470049624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_19
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4798e42220a5250800000000000000
+      internalID: 5934057805383824551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_20
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e1fef5a49b9bf10800000000000000
+      internalID: 2286062014955462292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762485c3662cbb4a0800000000000000
+      internalID: -6576449086489607577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258e8c246fbc65d40800000000000000
+      internalID: 5572865847460423762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 255
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d88f010f95079e0800000000000000
+      internalID: -1625700577869001429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38b132271f7408d0800000000000000
+      internalID: -2881038124275615681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27aac923a89511c80800000000000000
+      internalID: -8353797383706072462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_26
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6eeb404edd9e5b0800000000000000
+      internalID: -5338491911869110590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56496fcc76ea7be60800000000000000
+      internalID: 7978037025753699429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_28
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de3fdc591a0abc90800000000000000
+      internalID: -7153393954076016938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6660a41f873b6e90800000000000000
+      internalID: -7031465305542990225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a732b77b9f9c3a50800000000000000
+      internalID: 6502247452093069216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_31
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cc95289639c9050800000000000000
+      internalID: 5808679700768869436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_32
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b967b25ff1babe710800000000000000
+      internalID: 1723659436144948891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74bf0b279164a500800000000000000
+      internalID: 406557168260592762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 239
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 224c270235a1298f0800000000000000
+      internalID: -535336461374667742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_35
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6890a7632ce4a7140800000000000000
+      internalID: 4718170155668605318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba5e20e71e3470d0800000000000000
+      internalID: -3426045144255800649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_37
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbf94811fcaec3e0800000000000000
+      internalID: -2031496230402917427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_38
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47498a2275af9dff0800000000000000
+      internalID: -10702271941143436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1efc641aa1a34a70800000000000000
+      internalID: 8810063047926021660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86922245aa25414e9dd1b3bb8346f9f
+      internalID: 1143500330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_41
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec7707b014770e4881bd18daab9ed5a
+      internalID: -163560467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 207
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291d0122e313c27459e7cbce03b00d31
+      internalID: -1026549459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_43
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff6bad5674ebc04586f78a86db221ef
+      internalID: -155367841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_44
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de5757b8b6495c4388dcbd7ed680598
+      internalID: 587612574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_45
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdfed111aa8588a42b904ae922340076
+      internalID: 1635891973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628ba375d743b7c4786bb60269bce56c
+      internalID: 1011950374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc71984656c2ef4eab5e7141791a2d0
+      internalID: 1656583497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_48
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 191
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b177e0de8c2965438fcc9e14e45e8b6
+      internalID: 1392450942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26db29ee5f321b439e65c2384158aec
+      internalID: 1225499767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_50
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d922543175e510448738907426ce44d
+      internalID: -1618157317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24edad7110c25c418ee791c3ed76a85
+      internalID: -748107727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_52
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729d258aebd6a104bb6bd8a0794abecf
+      internalID: 357620837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42753a4cd53a344da437bafe824b20a
+      internalID: -1460479204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e4142cf69406446bc065198c51e7cb
+      internalID: 1791051961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_55
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e356f297025a8684897dc6c731c061fa
+      internalID: 91177421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df9b8d1ed5c1b94ab7a45599ee658b0
+      internalID: -505522533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_57
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd4b03de8f22f147bcbdad164d8bff5
+      internalID: -1720007030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_58
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8760cce521eb5f47a573d90e6477e40
+      internalID: 1001966772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_59
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3aa6f2105c68b4388d74d32031ca4c
+      internalID: -1605596505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_60
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29afdf76f3593ad47982c8be6f2e5932
+      internalID: 998155896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_61
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cebb5109c8f0fb4eaf8e29ee8293315
+      internalID: -1558312855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_62
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e3f04f240c5f4b932dac9fb658b33
+      internalID: 802187818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_63
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc537e939b7d6d746b700b955244620a
+      internalID: -1550239279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_64
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65032ff7803f4f44385bc150db51a2c9
+      internalID: -2084925180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_65
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d016453e13a22c42857f7795e5831c9
+      internalID: -1212885311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_66
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8956319e4b725a443ac7c151dd8e7da0
+      internalID: 887558766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082696b772831d84294cd549a9138e1c
+      internalID: 1917475151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_68
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3814fb18fce4241843c29be559bfdc
+      internalID: 374993980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_69
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f7fccadba2d304c9a34dd588faff3b
+      internalID: 364695704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_70
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfdb4c2f1646344a877693fc7289b06
+      internalID: 943103186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5c55764f855d0f43b272328da4cfa30
+      internalID: 880121604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda3dffd2c73004b97a4a3f23a5b871
+      internalID: -1696338619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5754bba50113ee64c83c851a73815ed2
+      internalID: -1193083174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fdc21158269a841a3a6a699117ac27
+      internalID: -1085933093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_75
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e1c9adf33e4ac43b9eb263c003b301
+      internalID: 1670405208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_76
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5829cf34e978964eb1a655941e90bb2
+      internalID: -1591020007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_77
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef43425ac9fc0946801afdf7db70667
+      internalID: 303553027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_78
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdd52074f8e5a914ea509fc557cc5cf3
+      internalID: -923309457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ff12987cd467c4cbdcdebc8b432b67
+      internalID: -9546813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_80
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92881ee4ac07b904683d2e4be53fff96
+      internalID: 863920143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b644d221b1f034bb0e1cda45c73323
+      internalID: -34934828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_82
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f52fc6340dd3d44b3fd4b1d4e35f86
+      internalID: -27584504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_83
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484caa54e38785547832803ee717ac00
+      internalID: 1322681919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_84
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd026e914863dc4c9fe7c2ae22ac977
+      internalID: 1813188594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_85
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be19fcd7894515c42a6b7eeabc472c10
+      internalID: -1187837730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173f379c473beab4b91e0fc1439459e6
+      internalID: -528106014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_87
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 95
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4cd8a22bceba4da53df9fb8c5aa9c
+      internalID: -273539154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de45d8d334601e54e8e683001e1a3ddb
+      internalID: -613658179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b6a0393aaa5ea48b0934ecef20bf2f
+      internalID: 1177456669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_90
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0686b51ab64d20a4d810173cac0a7242
+      internalID: -539391536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdac1467a531f44d88f1edcb7e30487
+      internalID: 351961969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf63c2810cb55e41907e90ce55a9522
+      internalID: 1586969584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_93
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993f4eefa94c2d54e903806235de00d1
+      internalID: -1848663750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_94
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620c4172b1d02694da97349c4ee00860
+      internalID: 21761864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 79
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f432f9442b3b949a2e51c5126f8f0a
+      internalID: 1848528601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_96
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2173aa917d801847b00b79005e861a9
+      internalID: -1264377363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a340c8aacaa374d47ba851d17b3a1124
+      internalID: -775606646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_98
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a416f8766d767164283cbd50934f70c6
+      internalID: -1288173577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_99
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9896fab1d77da429e38a9766ee623e
+      internalID: 1715458444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b0553a4f292cd4a90c7610e2be9c81
+      internalID: 609707749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad27c2a2d83ec0f4090a5b954289cb9c
+      internalID: 460464515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_102
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c875fdf48e62540bc921f3950ac04d
+      internalID: -1005024382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_103
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71dc7059b2e32649a7d52209b300651
+      internalID: -1951006836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a9ecc3107db7d408781159b386903f
+      internalID: 115957068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_105
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30ad036ad5dbe0488ad81b6ff32a062
+      internalID: -1095383510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_106
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 47
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624a486d51b149f418e9ddf2b3b92bbe
+      internalID: -1699867235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d5fdb02be226c42a954edeb371d64e
+      internalID: 28167422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_108
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cae909d7ac251d4eb16e3fe00ec7485
+      internalID: -1473450023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39464d0861be1fd4eb6d867678dd9097
+      internalID: -57091280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_110
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d533e948464a123439ad52bf61919059
+      internalID: 1187350964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_111
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c9bda10656ad84eaa159abc5ad990d
+      internalID: 1028030295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_112
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347460b3523cfd24096393e44b13acad
+      internalID: -2041035658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_113
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5234e5a67f6cc42b360ad04c5acff6
+      internalID: 1198671090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_114
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9aab4f49aaa2e4792c03c11db9655b
+      internalID: 638166956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423d7708232b0445b4c24681ad6aa10
+      internalID: 1301992336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_116
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ff2ca02c388ca4ea47336e0f287477
+      internalID: -1576412436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab363ffa296127742a98138c9b7d75af
+      internalID: 1851399779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_118
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3395cbeb38b3744aa281248f98ccfeb
+      internalID: -255025467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_119
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588e060f7223b2f45a3986df521cfca5
+      internalID: -521173590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FreeEnviro_Sheet_16px_120
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bfca4b56791fc42ad68456ab3a7b9c
+      internalID: -1563460878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 298fd292423853b4b9a04c17ff2ff39a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":16.0,"y":16.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      FreeEnviro_Sheet_16px_0: -25560047072530739
+      FreeEnviro_Sheet_16px_1: 7812956359290558743
+      FreeEnviro_Sheet_16px_10: 3240035971489981170
+      FreeEnviro_Sheet_16px_100: 609707749
+      FreeEnviro_Sheet_16px_101: 460464515
+      FreeEnviro_Sheet_16px_102: -1005024382
+      FreeEnviro_Sheet_16px_103: -1951006836
+      FreeEnviro_Sheet_16px_104: 115957068
+      FreeEnviro_Sheet_16px_105: -1095383510
+      FreeEnviro_Sheet_16px_106: -1699867235
+      FreeEnviro_Sheet_16px_107: 28167422
+      FreeEnviro_Sheet_16px_108: -1473450023
+      FreeEnviro_Sheet_16px_109: -57091280
+      FreeEnviro_Sheet_16px_11: -7674602997623316065
+      FreeEnviro_Sheet_16px_110: 1187350964
+      FreeEnviro_Sheet_16px_111: 1028030295
+      FreeEnviro_Sheet_16px_112: -2041035658
+      FreeEnviro_Sheet_16px_113: 1198671090
+      FreeEnviro_Sheet_16px_114: 638166956
+      FreeEnviro_Sheet_16px_115: 1301992336
+      FreeEnviro_Sheet_16px_116: -1576412436
+      FreeEnviro_Sheet_16px_117: 1851399779
+      FreeEnviro_Sheet_16px_118: -255025467
+      FreeEnviro_Sheet_16px_119: -521173590
+      FreeEnviro_Sheet_16px_12: 1248467839185158111
+      FreeEnviro_Sheet_16px_120: -1563460878
+      FreeEnviro_Sheet_16px_13: -5646674466958816790
+      FreeEnviro_Sheet_16px_14: 5682027967581858935
+      FreeEnviro_Sheet_16px_15: -8294676140793360537
+      FreeEnviro_Sheet_16px_16: 504537294659109246
+      FreeEnviro_Sheet_16px_17: -7042872260647051784
+      FreeEnviro_Sheet_16px_18: 3147430140470049624
+      FreeEnviro_Sheet_16px_19: 5934057805383824551
+      FreeEnviro_Sheet_16px_2: 3943077619563793593
+      FreeEnviro_Sheet_16px_20: 2286062014955462292
+      FreeEnviro_Sheet_16px_21: -6576449086489607577
+      FreeEnviro_Sheet_16px_22: 5572865847460423762
+      FreeEnviro_Sheet_16px_23: -1625700577869001429
+      FreeEnviro_Sheet_16px_24: -2881038124275615681
+      FreeEnviro_Sheet_16px_25: -8353797383706072462
+      FreeEnviro_Sheet_16px_26: -5338491911869110590
+      FreeEnviro_Sheet_16px_27: 7978037025753699429
+      FreeEnviro_Sheet_16px_28: -7153393954076016938
+      FreeEnviro_Sheet_16px_29: -7031465305542990225
+      FreeEnviro_Sheet_16px_3: -6757436366655092036
+      FreeEnviro_Sheet_16px_30: 6502247452093069216
+      FreeEnviro_Sheet_16px_31: 5808679700768869436
+      FreeEnviro_Sheet_16px_32: 1723659436144948891
+      FreeEnviro_Sheet_16px_33: 406557168260592762
+      FreeEnviro_Sheet_16px_34: -535336461374667742
+      FreeEnviro_Sheet_16px_35: 4718170155668605318
+      FreeEnviro_Sheet_16px_36: -3426045144255800649
+      FreeEnviro_Sheet_16px_37: -2031496230402917427
+      FreeEnviro_Sheet_16px_38: -10702271941143436
+      FreeEnviro_Sheet_16px_39: 8810063047926021660
+      FreeEnviro_Sheet_16px_4: -5025612235057874389
+      FreeEnviro_Sheet_16px_40: 1143500330
+      FreeEnviro_Sheet_16px_41: -163560467
+      FreeEnviro_Sheet_16px_42: -1026549459
+      FreeEnviro_Sheet_16px_43: -155367841
+      FreeEnviro_Sheet_16px_44: 587612574
+      FreeEnviro_Sheet_16px_45: 1635891973
+      FreeEnviro_Sheet_16px_46: 1011950374
+      FreeEnviro_Sheet_16px_47: 1656583497
+      FreeEnviro_Sheet_16px_48: 1392450942
+      FreeEnviro_Sheet_16px_49: 1225499767
+      FreeEnviro_Sheet_16px_5: 8313634211143539848
+      FreeEnviro_Sheet_16px_50: -1618157317
+      FreeEnviro_Sheet_16px_51: -748107727
+      FreeEnviro_Sheet_16px_52: 357620837
+      FreeEnviro_Sheet_16px_53: -1460479204
+      FreeEnviro_Sheet_16px_54: 1791051961
+      FreeEnviro_Sheet_16px_55: 91177421
+      FreeEnviro_Sheet_16px_56: -505522533
+      FreeEnviro_Sheet_16px_57: -1720007030
+      FreeEnviro_Sheet_16px_58: 1001966772
+      FreeEnviro_Sheet_16px_59: -1605596505
+      FreeEnviro_Sheet_16px_6: 3193700057236950767
+      FreeEnviro_Sheet_16px_60: 998155896
+      FreeEnviro_Sheet_16px_61: -1558312855
+      FreeEnviro_Sheet_16px_62: 802187818
+      FreeEnviro_Sheet_16px_63: -1550239279
+      FreeEnviro_Sheet_16px_64: -2084925180
+      FreeEnviro_Sheet_16px_65: -1212885311
+      FreeEnviro_Sheet_16px_66: 887558766
+      FreeEnviro_Sheet_16px_67: 1917475151
+      FreeEnviro_Sheet_16px_68: 374993980
+      FreeEnviro_Sheet_16px_69: 364695704
+      FreeEnviro_Sheet_16px_7: -6542638708561858447
+      FreeEnviro_Sheet_16px_70: 943103186
+      FreeEnviro_Sheet_16px_71: 880121604
+      FreeEnviro_Sheet_16px_72: -1696338619
+      FreeEnviro_Sheet_16px_73: -1193083174
+      FreeEnviro_Sheet_16px_74: -1085933093
+      FreeEnviro_Sheet_16px_75: 1670405208
+      FreeEnviro_Sheet_16px_76: -1591020007
+      FreeEnviro_Sheet_16px_77: 303553027
+      FreeEnviro_Sheet_16px_78: -923309457
+      FreeEnviro_Sheet_16px_79: -9546813
+      FreeEnviro_Sheet_16px_8: 8455493245105938248
+      FreeEnviro_Sheet_16px_80: 863920143
+      FreeEnviro_Sheet_16px_81: -34934828
+      FreeEnviro_Sheet_16px_82: -27584504
+      FreeEnviro_Sheet_16px_83: 1322681919
+      FreeEnviro_Sheet_16px_84: 1813188594
+      FreeEnviro_Sheet_16px_85: -1187837730
+      FreeEnviro_Sheet_16px_86: -528106014
+      FreeEnviro_Sheet_16px_87: -273539154
+      FreeEnviro_Sheet_16px_88: -613658179
+      FreeEnviro_Sheet_16px_89: 1177456669
+      FreeEnviro_Sheet_16px_9: 6679721999051853891
+      FreeEnviro_Sheet_16px_90: -539391536
+      FreeEnviro_Sheet_16px_91: 351961969
+      FreeEnviro_Sheet_16px_92: 1586969584
+      FreeEnviro_Sheet_16px_93: -1848663750
+      FreeEnviro_Sheet_16px_94: 21761864
+      FreeEnviro_Sheet_16px_95: 1848528601
+      FreeEnviro_Sheet_16px_96: -1264377363
+      FreeEnviro_Sheet_16px_97: -775606646
+      FreeEnviro_Sheet_16px_98: -1288173577
+      FreeEnviro_Sheet_16px_99: 1715458444
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
