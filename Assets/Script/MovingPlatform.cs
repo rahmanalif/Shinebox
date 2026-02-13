@@ -138,8 +138,11 @@ public class MovingPlatform : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Ball"))
         {
-            // Make ball child of platform so it moves with it
-            collision.transform.SetParent(transform);
+            // Only parent when the ball is on top; avoid sticking when hit from the side.
+            if (ShouldParentBall(collision))
+            {
+                collision.transform.SetParent(transform);
+            }
         }
     }
 
@@ -150,5 +153,18 @@ public class MovingPlatform : MonoBehaviour
             // Unparent ball when it leaves platform
             collision.transform.SetParent(null);
         }
+    }
+
+    private bool ShouldParentBall(Collision2D collision)
+    {
+        // Contact normals point from this collider toward the other collider.
+        for (int i = 0; i < collision.contactCount; i++)
+        {
+            if (collision.contacts[i].normal.y > 0.5f)
+            {
+                return true;
+            }
+        }
+        return false;
     }
 }

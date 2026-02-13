@@ -12,17 +12,59 @@ EditorBuildSettings:
     path: Assets/Scenes/tic tac toe/tic tac toe.unity
     guid: b10d73b5e8b1a81439f6d0f8277ae3e0
   - enabled: 1
-    path: Assets/Scenes/GOLF/Phutt Phutt Golf.unity
-    guid: 3c4b75bd2161a534a922f22d4e1fecc6
+    path: Assets/Scenes/GOLF/Phutt Phutt Golf 4.unity
+    guid: fc87f50e2c3399747bfce206f8e00173
   - enabled: 1
     path: Assets/Scenes/GOLF/Level_02.unity
-    guid: 0cde9ec33199ec74cbb1faa103a87bae
+    guid: 952bd1a072ff9a44ca220c7803cbb0b0
   - enabled: 1
     path: Assets/Scenes/GOLF/Level_03.unity
-    guid: 4b6d5db1193337947901bbe34ae9291b
+    guid: 22b9698e80ff3f04ea1f9886c28ff4fc
   - enabled: 1
     path: Assets/Scenes/GOLF/Level_04.unity
-    guid: 56c5b1211e016cd46abeafecf2b0cc8a
+    guid: d9987032214ed7a4f8b89502924ddd92
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_05.unity
+    guid: 0bb08ea5ea8fe9b40980abc703b47207
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_06.unity
+    guid: 557bf3ed3713e8e46950d54ee49ee2f8
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_07.unity
+    guid: 3c4b75bd2161a534a922f22d4e1fecc6
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_08.unity
+    guid: d289ae5e9c765834db342bb8eddea98f
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_09.unity
+    guid: 152d0296470ca754ba15c5714da3a65a
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_10.unity
+    guid: 745ede30f46833f498bcc5977955edd1
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_11.unity
+    guid: f0d9ac85d8c0cc74491bf715b1e23ae9
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_12.unity
+    guid: 137b4c96f67797f4d928ee3763266152
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_13.unity
+    guid: b0cf0cc2cd06b0a419dda6aecf72c8a7
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_14.unity
+    guid: 90d9abbf6a88eb14b98a9773bc75a070
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_15.unity
+    guid: d7713e19eec70d847ba82ec195bb83ce
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_16.unity
+    guid: 367a91799ef64bb4194f4c14737a9bf9
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_17.unity
+    guid: 0b72291ccf4ff79489411e249f7527f4
+  - enabled: 1
+    path: Assets/Scenes/GOLF/Level_18.unity
+    guid: 2edfd2b5a3dc0734399685d5a04bb11a
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

@@ -34,6 +34,10 @@ public class GoalScript : MonoBehaviour
     {
         if (collision.CompareTag("Ball") && !goalReached)
         {
+            if (GameManager.Instance != null && GameManager.Instance.IsOutOfStrokes())
+            {
+                return;
+            }
             goalReached = true;
             StartCoroutine(BallFallIntoHole(collision.gameObject));
         }
@@ -120,6 +124,10 @@ public class GoalScript : MonoBehaviour
         if (GameManager.Instance == null)
         {
             Debug.LogWarning("GameManager not found!");
+            return;
+        }
+        if (GameManager.Instance.IsOutOfStrokes())
+        {
             return;
         }
 

@@ -24,6 +24,15 @@ public class LevelManager : MonoBehaviour
         // Add more par values as you create levels
     };
 
+    [SerializeField] private int[] maxStrokesForEachLevel = new int[]
+    {
+        3,  // Level 1 max strokes (0 = no limit)
+        4,  // Level 2 max strokes
+        4,  // Level 3 max strokes
+        4,  // Level 4 max strokes
+        // Add more max stroke values as you create levels
+    };
+
     private int currentLevelIndex = 0;
 
     private void Awake()
@@ -119,5 +128,14 @@ public class LevelManager : MonoBehaviour
             return parForEachLevel[levelIndex];
         }
         return 3; // Default par
+    }
+
+    public int GetMaxStrokesForLevel(int levelIndex)
+    {
+        if (levelIndex >= 0 && levelIndex < maxStrokesForEachLevel.Length)
+        {
+            return maxStrokesForEachLevel[levelIndex];
+        }
+        return 0; // 0 = no limit
     }
 }
